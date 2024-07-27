@@ -1,0 +1,13 @@
+{
+  "name": "video-dl-client",
+  "version": "1.0.0",
+  "description": "video downloader website",
+  "scripts": {
+    "build": "npx tailwindcss -i css/core.css -o css/tailwind.min.css --minify"
+  },
+  "author": "Hossein Pira",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
